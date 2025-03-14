@@ -1,7 +1,8 @@
 <h1>create-the-IAM-role-for-employee-directory-application</h1>
 
 <h2>Description</h2>
-we will also look at how to create users and look at the different AWS access keys, which are used for programmatic access to AWS APIs
+we are going to create the IAM role for our employee directory application, and we will also look at how to create users and the different AWS access keys used for programmatic access to AWS APIs.
+
 <br />
 
 <h2>Program walk-through:</h2>
